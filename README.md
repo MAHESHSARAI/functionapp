@@ -99,4 +99,4 @@ This project aims to set up an environment in Azure using Terraform for deployin
 6. Run `terraform apply` to apply the Terraform configurations and provision the resources.
 
 ## Credits
-- Created by [Your Name]
+- Created by [Mahesh]
